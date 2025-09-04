@@ -1,5 +1,5 @@
-NAME: ADAMA ANDREW AGBOR
-MATRIC NUMBEER: 24/D/CSC/009
+NAME: AGBOR AUGUSTINE OKPURUWU 
+MATRIC NUMBEER: 23/CSC/019
 COURSE CODE: CSC 282
 ASSIGNMENT TITLE: STUDENT REGISTRATION SYSTEM
 
@@ -23,4 +23,5 @@ Delete button to remove a student(Extra credit + 5 marks)
 3. Move all '.php' files into your XAMPP 'htdocs/student_registration/' folder.
 4. Start **Apache** and **mySQL** in XAMMP.
 5. Open your browser and visit:
+
     http://localhost/student_registration/index.php
