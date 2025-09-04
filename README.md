@@ -1,1 +1,1 @@
-# student-registration
+# Student-registration
