@@ -1,7 +1,7 @@
 <?php
 include "db.php";
 
-//getting recors from my database
+//getting records from my database
 $result = $conn->query("SELECT * FROM student_record");
 ?>
 <!DOCTYPE html>
@@ -108,5 +108,6 @@ $result = $conn->query("SELECT * FROM student_record");
     </table>
     <a class="back-link" href="index.php">Back to registration</a>
 </body>
+
 
 </html>
